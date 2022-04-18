@@ -2,8 +2,23 @@
   "name": "auto-version-updater",
   "version": "1.0.0",
   "description": "a tool to update package.json & git tag version",
+  "keywords": [
+    "version update",
+    "版本号",
+    "version"
+  ],
+  "homepage": "https://github.com/SawyerSven/auto-version-updater#readme",
+  "bugs": {
+    "url": "https://github.com/SawyerSven/auto-version-updater/issues",
+    "email": "kormondor@gmail.com"
+  },
+  "author": "Deimos.Sun <kormondor@gmail.com>",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/SawyerSven/auto-version-updater"
+  },
   "dependencies": {
     "chalk": "^4.1.2",
     "consola": "^2.15.3",

@@ -1,6 +1,6 @@
 {
   "name": "auto-version-updater",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "a tool to update package.json & git tag version",
   "keywords": [
     "version update",
